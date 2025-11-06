@@ -54,7 +54,7 @@ export default function Hero() {
 
         <div className="relative mt-14 h-[420px] w-full rounded-2xl bg-gradient-to-br from-[#08142a] to-[#0a1a36] ring-1 ring-white/10 shadow-2xl lg:mt-0 lg:h-[560px]">
           <Spline
-            scene="https://prod.spline.design/4HIlOdlXYYkZW66z/scene.splinecode"
+            scene="https://prod.spline.design/DtQLjBkD1UpownGS/scene.splinecode"
             style={{ width: '100%', height: '100%' }}
           />
           <div className="pointer-events-none absolute inset-0 rounded-2xl bg-gradient-to-tr from-cyan-500/10 via-transparent to-cyan-300/10" />

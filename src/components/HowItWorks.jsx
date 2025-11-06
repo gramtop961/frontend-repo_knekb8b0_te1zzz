@@ -1,5 +1,5 @@
 import React from 'react';
-import { Plug, ShieldLock, TrendingUp } from 'lucide-react';
+import { Plug, Shield, TrendingUp } from 'lucide-react';
 
 const steps = [
   {
@@ -10,7 +10,7 @@ const steps = [
   {
     title: 'Protect',
     desc: 'Enforce RBAC, policies, and device-bound sessions with DPoP-bound tokens and secure cookies.',
-    icon: <ShieldLock size={22} className="text-cyan-500" />,
+    icon: <Shield size={22} className="text-cyan-500" />,
   },
   {
     title: 'Scale',
